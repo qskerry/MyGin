@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2919e47-eb4e-4d3d-a7d0-c8bdef732bbd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/framework/core.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/framework/context.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/framework/controller.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +23,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
   <component name="ProjectId" id="25xAWpVdgcrm1D9Z0gH5yV6HaAw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -34,6 +39,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -69,5 +75,9 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
   </component>
 </project>
